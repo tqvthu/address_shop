@@ -18,7 +18,7 @@ development:
   encoding: unicode
   database: address_shop
   pool: 5
-  username: postgresq
+  username: tqvthu
   password: admin
 
 # Warning: The database defined as "test" will be erased and
